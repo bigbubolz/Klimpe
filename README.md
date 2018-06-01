@@ -1,2 +1,2 @@
-# Klimpe
+# Kliment Repo
 Kliment's repository
